@@ -1,4 +1,0 @@
-DetectFace
-==========
-
-Detect Face Project
